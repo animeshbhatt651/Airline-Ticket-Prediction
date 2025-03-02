@@ -14,7 +14,6 @@ Data format: comma separated values file.
 5. Models Analysis (not done yet)
 6. Deployment on heroku
 
-Project can be found at: https://github.com/NourKamaly/AirlineTicketPricePrediction
 
 # Tech Stack
 Programming Languages: Python 3.9, JavaScript
@@ -80,7 +79,3 @@ Random Forest r2 score: 0.980
 
 # Deployment:
 Deployment was done using HTML, CSS, Javascript, bootstrap for the interface and the backened was made by Flask.
-
-The Website Link: https://airline-ticket-prediction-app.herokuapp.com/
-
-![website](https://user-images.githubusercontent.com/73191469/172854369-b3791318-0408-4e82-a2a0-7dd7ee7197a2.png)
